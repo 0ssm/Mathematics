@@ -1,2 +1,2 @@
 # Mathematics
-Another Uncompleted Repo
+Another Incomplete Repo
